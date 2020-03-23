@@ -13,6 +13,10 @@ Route::get('/postDownload',function (Request $request){
 
 });
 
+Route::get('/', function () {
+    return view('home_test');
+});
+
 
 
 
