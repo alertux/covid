@@ -39,8 +39,8 @@ $ composer install
 6. Agrega el archivo ".env" a tu proyecto.
     Clona el archivo ".env.example" con el nombre ".env" en la ruta raiz de proyecto y  cambia la
    rutas a: 
-	APP_URL=http://covid.test
-	ASSET_URL=http://covid.test
+	APP_URL=http://covid.test ó http://localhost/covid 
+    ASSET_URL=http://covid.test ó http://localhost/covid
 
 7. Probar la instalación
    http://covid.test/
