@@ -12,6 +12,9 @@ Listamos los proyectos open source para trabajar la solución:
 * [Frontend] VUE JS, Boostrap 4
 * [Backend] PHP con Laravel 5.6
 * [Base de Datos]  PostgreSQL
+
+y 
+
 * [Cloud] Google Cloud Platform
 
 ### Instalación
@@ -39,9 +42,9 @@ $ composer install
 6. Agrega el archivo ".env" a tu proyecto.
     Clona el archivo ".env.example" con el nombre ".env" en la ruta raiz de proyecto y  cambia la
    rutas a: 
-	APP_URL=http://covid.test ó http://localhost/covid 
-    ASSET_URL=http://covid.test ó http://localhost/covid
-
+	APP_URL=http://covid.test
+	ASSET_URL=http://covid.test
+ 
 7. Probar la instalación
    http://covid.test/
 
