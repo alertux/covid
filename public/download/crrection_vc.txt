@@ -1,0 +1,21 @@
+http://www.c-sharpcorner.com/UploadFile/47548d/how-to-install-wamp-server-on-windows-8-1/ ***
+
+https://sourceforge.net/projects/wampserver/?source=navbar
+
+http://stackoverflow.com/questions/30811668/php7-missing-vcruntime140-dll
+
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=48145
+
+http://www.softpedia.com/get/Programming/Components-Libraries/Microsoft-Visual-C-Redistributable-Package.shtml
+
+https://www.google.com/search?q=api-ms-crt-math-l1-1-0.dll&ie=utf-8&oe=utf-8
+
+http://www.dll-files.com/dllindex/dll-files.shtml?api-ms-win-crt-math-l1-1-0
+
+http://stackoverflow.com/questions/33265663/api-ms-win-crt-runtime-l1-1-0-dll-is-missing-when-open-office-file
+
+https://support.microsoft.com/en-us/kb/2999226 ***
+http://blog.spreendigital.de/2015/09/01/how-to-fix-the-api-ms-win-crt-runtime-l1-1-0-dll-is-missing-error-for-delphi-10-seattle/
+
+
+https://sourceforge.net/projects/wampserver/files/WampServer%202/
