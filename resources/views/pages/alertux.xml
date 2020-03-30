@@ -1,0 +1,1233 @@
+<? xml version = "1.0" encoding = "UTF-8"?>
+<rss version="2.0"
+     xmlns: content="http://purl.org/rss/1.0/modules/content/"
+     xmlns: wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns: dc="http://purl.org/dc/elements/1.1/"
+     xmlns: atom="http://www.w3.org/2005/Atom"
+     xmlns: sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns: slash="http://purl.org/rss/1.0/modules/slash/"
+>
+
+    <channel>
+        <title></title>
+        <atom: link href="http://alertux.com/blog/?feed=rss2" rel="self" type="application / rss + xml"/>
+        <link>http://alertux.com/blog</link>
+        <description></description>
+        <lastBuildDate>Thu, 26 Mar 2020 19:00:15 +0000</lastBuildDate>
+        <language>is</language>
+        <sy: updatePeriod>
+            hourly
+        </ sy: updatePeriod>
+        <sy: updateFrequency>
+            1
+        </ sy: updateFrequency>
+        <generator>https://wordpress.org/?v=5.3.2</generator>
+
+        <image>
+            <url>http://alertux.com/blog/wp-content/uploads/2020/03/cropped-favicon-32x32.png</url>
+            <title></title>
+            <link>http://alertux.com/blog</link>
+            <width>32</width>
+            <height>32</height>
+        </image>
+        <item>
+            <title>Italy bans funerals, as a measure to contain the coronavirus.</title>
+            <link>http://alertux.com/blog/?p=804</link>
+            <comments>http://alertux.com/blog/?p=804#respond</comments>
+            <pubDate>Thu, 26 Mar 2020 19:00:13 +0000</pubDate>
+            <dc: creator><! [CDATA [admin]]>
+            </ dc: creator>
+            <category>
+            <!
+
+            <guid isPermaLink="false">http://alertux.com/blog/?p=804</guid>
+            <description><! [CDATA [Italian authorities have banned funerals, with the aim of containing the spread of
+                the coronavirus. The covid-19 pandemic has caused 662 deaths in the last 24 hours in & # 8230; ]]>
+            </description>
+            <content: encoded><! [CDATA [
+                <figure class="wp-block-image size-large">
+                    <img src="http://alertux.com/blog/wp-content/uploads/2020/03/alertux-5-1024x577.jpg" alt=""
+                         class="wp-image-805"
+                         srcset="http://alertux.com/blog/wp-content/uploads/2020/03/alertux-5-1024x577.jpg 1024w, http://alertux.com /blog/wp-content/uploads/2020/03/alertux-5-300x169.jpg 300w, http://alertux.com/blog/wp-content/uploads/2020/03/alertux-5-768x433.jpg 768w , http://alertux.com/blog/wp-content/uploads/2020/03/alertux-5-600x338.jpg 600w, http://alertux.com/blog/wp-content/uploads/2020/03/ alertux-5.jpg 1104w "
+                         sizes=" (max-width: 1024px) 100vw, 1024px "/>
+                    <figcaption>Antonio Calanni / AP
+                        <br>
+                    </figcaption>
+                </figure>
+
+
+                <p>Italian authorities have banned funerals, with the aim of containing the spread of the coronavirus.
+                </p>
+
+
+                <p>The covid-19 pandemic has caused 662 deaths in the last 24 hours in Italy, bringing the deaths in the
+                    country from this disease to 8,165, as reported by the Italian Civil Protection Agency this March 25
+                    this March 26 .
+                </p>
+
+
+                <p>That body has detailed that for this Thursday in the country 80,539 cases have been registered in
+                    total and there are currently 62,013 people with covid-19 in Italy. Also, this day in that European
+                    country 4,492 new cases were detected compared to 3,491 on March 25.
+                </p>
+
+
+                <p>Source: RT</p>
+
+                <div
+                        class="fb-comments"
+                        data-href="http://alertux.com/blog/?p=804"
+                        data-numposts="10"
+                        data-colorscheme="light"
+                        data-order-by="social"
+                        data-mobile= true>
+                </div>
+                <style>
+                    .fb_iframe_widget_fluid_desktop iframe {
+                    width: 100%! important;
+                    }
+                </style>
+                <div style="display: none;"
+                     class="kk-star-ratings kksr-valign-bottom kksr-align-right"
+                     data-id="804"
+                     data-slug="">
+                    <div class="kksr-stars">
+                        <div class="kksr-stars-inactive">
+                            <div class="kksr-star" data-star="1">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="2">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="3">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="4">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="5">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                        <div class="kksr-stars-active" style="width: 0px;">
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="kksr-legend">
+                        <span class="kksr-muted">Rate this report</span>
+                    </div>
+                </div>
+                ]]>
+            </ content: encoded>
+            <wfw: commentRss>http://alertux.com/blog/?feed=rss2&p=804</ wfw: commentRss>
+            <slash: comments>0</ slash: comments>
+        </item>
+        <item>
+            <title>Pipa capsizes on the La Hachadura road, towards Sonsonate.</title>
+            <link>http://alertux.com/blog/?p=799</link>
+            <comments>http://alertux.com/blog/?p=799#respond</comments>
+            <pubDate>Thu, 26 Mar 2020 17:54:28 +0000</pubDate>
+            <dc: creator><! [CDATA [admin]]>
+            </ dc: creator>
+            <category><! [CDATA [El Salvador]]>
+            </category>
+
+            <guid isPermaLink="false">http://alertux.com/blog/?p=799</guid>
+            <description><! [CDATA [A pipe carrying ten thousand gallons of gas overturned at kilometer 90 that de la
+                Hachadura leads to Sonsonate. As reported by Firefighters of El Salvador, the cause would have & # 8230;
+                ]]>
+            </description>
+            <content: encoded><! [CDATA [
+                <p>
+                    <em>A pipe carrying ten thousand gallons of gas overturned at kilometer 90 that de la Hachadura
+                        leads to Sonsonate.
+                    </em>
+                </p>
+
+
+                <figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+                    <div class="wp-block-embed__wrapper">
+                        <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+                            <p lang="en" dir="ltr">We provide security at km 90 of the highway from the border La Ax to
+                                Sonsonate, where a pipe carrying LPG overturned at the edge of the road.
+                                <a
+                                        href="https://t.co/olOovrz1CD">pic.twitter.com/olOovrz1CD
+                                </a>
+                            </p>
+                            & mdash; Bomberos El Salvador (@BomberosSV)
+                            <a
+                                    href="https://twitter.com/BomberosSV/status/1243225620940759040?ref_src=twsrc%5Etfw">
+                                March 26, 2020
+                            </a>
+                        </blockquote>
+                        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    </div>
+                </figure>
+
+
+                <p>As reported by Firefighters from El Salvador, the cause would have been mechanical problems in the
+                    pipe.
+                </p>
+
+
+                <p></p>
+
+                <div
+                        class="fb-comments"
+                        data-href="http://alertux.com/blog/?p=799"
+                        data-numposts="10"
+                        data-colorscheme="light"
+                        data-order-by="social"
+                        data-mobile= true>
+                </div>
+                <style>
+                    .fb_iframe_widget_fluid_desktop iframe {
+                    width: 100%! important;
+                    }
+                </style>
+                <div style="display: none;"
+                     class="kk-star-ratings kksr-valign-bottom kksr-align-right"
+                     data-id="799"
+                     data-slug="">
+                    <div class="kksr-stars">
+                        <div class="kksr-stars-inactive">
+                            <div class="kksr-star" data-star="1">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="2">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="3">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="4">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="5">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                        <div class="kksr-stars-active" style="width: 0px;">
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="kksr-legend">
+                        <span class="kksr-muted">Rate this report</span>
+                    </div>
+                </div>
+                ]]>
+            </ content: encoded>
+            <wfw: commentRss>http://alertux.com/blog/?feed=rss2&p=799</ wfw: commentRss>
+            <slash: comments>0</ slash: comments>
+        </item>
+        <item>
+            <title># AlertCovid19SV & # 124; Up to 13 confirmed cases of COVID-19 in El Salvador -Updated</title>
+            <link>http://alertux.com/blog/?p=794</link>
+            <comments>http://alertux.com/blog/?p=794#respond</comments>
+            <pubDate>Thu, 26 Mar 2020 00:49:10 +0000</pubDate>
+            <dc: creator><! [CDATA [admin]]>
+            </ dc: creator>
+            <category><!-5CDATA//AlertaCovid19SV................................>
+            </category>
+            <category><!://CDATA//#alertCovid19SV................>>
+            </category>
+            <category>
+            <!
+
+            <guid isPermaLink="false">http://alertux.com/blog/?p=794</guid>
+            <description><! [CDATA [This day the authorities announced 4 positive cases plus COVID-19. According to the
+                authorities, among them was one who entered from Italy, before the period of restrictions. This person,
+                would have & # 8230; ]]>
+            </description>
+            <content: encoded><! [CDATA [
+                <figure class="wp-block-image size-large">
+                    <img src="http://alertux.com/blog/wp-content/uploads/2020/03/img-20200325-wa00161088327341713239952.jpg"
+                         alt="" class="wp-image-791"
+                         srcset="http://alertux.com/blog/wp-content/uploads/2020/03/img-20200325-wa00161088327341713239952.jpg 1280w, http://alertux.com /blog/wp-content/uploads/2020/03/img-20200325-wa00161088327341713239952-300x200.jpg 300w, http://alertux.com/blog/wp-content/uploads/2020/03/img-20200325-wa00161088327341713239952- 1024x682.jpg 1024w, http://alertux.com/blog/wp-content/uploads/2020/03/img-20200325-wa00161088327341713239952-768x512.jpg 768w, http://alertux.com/blog/wp-content/ uploads / 2020/03 / img-20200325-wa00161088327341713239952-600x400.jpg 600w "
+                         sizes=" (max-width: 1280px) 100vw, 1280px "/>
+                </figure>
+
+
+                <p>This day the authorities announced 4 positive cases plus COVID-19.</p>
+
+
+                <p>As reported by the authorities, among them was one who entered from Italy, before the period of
+                    restrictions.
+                </p>
+
+
+                <p>This person would have been in home isolation.</p>
+
+
+                <p>Two other people are part of a family group, who had contact with a person who was in the United
+                    States.
+                </p>
+
+
+                <figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+                    <div class="wp-block-embed__wrapper">
+                        <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+                        <p lang="en" dir="ltr">4 new cases from <to
+                                href="https: // twitter.com/hashtag/COVID19?src=hash&ref_src=twsrc%5Etfw">#COVID19
+                        </a> in El Salvador.
+                            <br>
+                            <br>
+                            Of these, 2 were under house quarantine in Santa Ana, when they were still They did these
+                            quarantines.
+                            <br>
+                            <br>
+                            A home quarantine is not as strict as a Containment Center.
+                            <br>
+                            <br>
+                            So it is likely that the virus has already traveled our country.
+                            <a
+                                    href="https://t.co/ciMsOVxA2E">https://t.co/ciMsOVxA2E
+                            </a>
+                        </p>
+                        & mdash; Nayib Bukele (@nayibbukele)
+                        <a href="https://twitter.com/nayibbukele/status/1242980913396551680?ref_src=twsrc%5Etfw">March
+                            26, 2020
+                        </a>
+                    </div>
+                </figure>
+
+
+                <p>The population is called to abide by the prevention measures in force.</p>
+
+
+                <p>#yomequedoencasa</p>
+
+                <div
+                        class="fb-comments"
+                        data-href="http://alertux.com/blog/?p=794"
+                        data-numposts="10"
+                        data-colorscheme="light"
+                        data-order-by="social"
+                        data-mobile= true>
+                </div>
+                <style>
+                    .fb_iframe_widget_fluid_desktop iframe {
+                    width: 100%! important;
+                    }
+                </style>
+                <div style="display: none;"
+                     class="kk-star-ratings kksr-valign-bottom kksr-align-right"
+                     data-id="794"
+                     data-slug="">
+                    <div class="kksr-stars">
+                        <div class="kksr-stars-inactive">
+                            <div class="kksr-star" data-star="1">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="2">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="3">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="4">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="5">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                        <div class="kksr-stars-active" style="width: 140px;">
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="kksr-legend">
+                        <strong class="kksr-score">5</strong>
+                        <span class="kksr-muted">/</span>
+                        <strong>5</strong>
+                        <span class="kksr-muted">(</span>
+                        <strong class="kksr-count">1</strong>
+                        <span class="kksr-muted">
+                            vote
+                        </span>
+                        <span class="kksr-muted">)</span>
+                    </div>
+                </div>
+                ]]>
+            </ content: encoded>
+            <wfw: commentRss>http://alertux.com/blog/?feed=rss2&p=794</ wfw: commentRss>
+            <slash: comments>0</ slash: comments>
+        </item>
+        <item>
+            <title>Capture moment of collision between pick up and motorcycle at the Diagonal Universitaria.</title>
+            <link>http://alertux.com/blog/?p=788</link>
+            <comments>http://alertux.com/blog/?p=788#respond</comments>
+            <pubDate>Wed, 25 Mar 2020 17:00:17 +0000</pubDate>
+            <dc: creator><! [CDATA [admin]]>
+            </ dc: creator>
+            <category><! [CDATA [El Salvador]]>
+            </category>
+
+            <guid isPermaLink="false">http://alertux.com/blog/?p=788</guid>
+            <description><! [CDATA [Members of our community shared a video with us that shows the moment when a pick up
+                of Guatemalan license plates collides with a motorcycle. The fact & # 8230; ]]>
+            </description>
+            <content: encoded><! [CDATA [
+                <p>Members of our community shared a video in which we can appreciate the moment in which a pick up of
+                    Guatemalan license plates collides with a motorcycle.
+                </p>
+
+
+                <p>The event occurred at the traffic light of the Diagonal Universitaria.</p>
+
+
+                <p>According to the report, the motorcyclist was helped by members of the PNC</p>
+
+
+                <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+                    <div class=" wp-block-embed__wrapper ">
+                        <iframe title="Alertux | Traffic accident at Diagonal Universitaria" width="1110" height="624"
+                                src="https://www.youtube.com/embed/1uzmcRqujgc?feature=oembed" frameborder="0"
+                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
+                </figure>
+
+                <div
+                        class="fb-comments"
+                        data-href="http://alertux.com/blog/?p=788"
+                        data-numposts="10"
+                        data-colorscheme="light"
+                        data-order-by="social"
+                        data-mobile= true>
+                </div>
+                <style>
+                    .fb_iframe_widget_fluid_desktop iframe {
+                    width: 100%! important;
+                    }
+                </style>
+                <div style="display: none;"
+                     class="kk-star-ratings kksr-valign-bottom kksr-align-right"
+                     data-id="788"
+                     data-slug="">
+                    <div class="kksr-stars">
+                        <div class="kksr-stars-inactive">
+                            <div class="kksr-star" data-star="1">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="2">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="3">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="4">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="5">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                        <div class="kksr-stars-active" style="width: 100.8px;">
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="kksr-legend">
+                        <strong class="kksr-score">3.7</strong>
+                        <span class="kksr-muted">/</span>
+                        <strong>5</strong>
+                        <span class="kksr-muted">(</span>
+                        <strong class="kksr-count">7</strong>
+                        <span class="kksr-muted">
+                            votes
+                        </span>
+                        <span class="kksr-muted">)</span>
+                    </div>
+                </div>
+                ]]>
+            </ content: encoded>
+            <wfw: commentRss>http://alertux.com/blog/?feed=rss2&p=788</ wfw: commentRss>
+            <slash: comments>0</ slash: comments>
+        </item>
+        <item>
+            <title>Expanded Health Office, confirms 4 more cases of coronavirus in El Salvador.</title>
+            <link>http://alertux.com/blog/?p=785</link>
+            <comments>http://alertux.com/blog/?p=785#respond</comments>
+            <pubDate>Wed, 25 Mar 2020 04:19:35 +0000</pubDate>
+            <dc: creator><! [CDATA [admin]]>
+            </ dc: creator>
+            <category><!-5CDATA//AlertaCovid19SV................................>
+            </category>
+            <category><!://CDATA//#alertCovid19SV................>>
+            </category>
+
+            <guid isPermaLink="false">http://alertux.com/blog/?p=785</guid>
+            <description><! [CDATA [El Salvador March 24 & # 8211; The Expanded Health Cabinet confirmed 4 more cases of
+                coronavirus in El Salvador. As reported by the authorities, the 4 confirmed cases of coronavirus & #
+                8230; ]]>
+            </description>
+            <content: encoded><! [CDATA [
+                <p>
+                    <em>
+                        <strong>El Salvador March 24 & # 8211; The Expanded Health Cabinet confirmed 4 more cases of
+                            coronavirus in El Salvador.
+                        </strong>
+                    </em>
+                </p>
+
+
+                <figure class="wp-block-image size-large">
+                    <img src="http://alertux.com/blog/wp-content/uploads/2020/03/ET7V7K6XQAAqtjt-1024x682.jpg" alt=""
+                         class="wp-image-786"
+                         srcset="http://alertux.com/blog/wp-content/uploads/2020/03/ET7V7K6XQAAqtjt-1024x682.jpg 1024w, http://alertux.com/blog/wp -content / uploads / 2020/03 / ET7V7K6XQAAqtjt-300x200.jpg 300w, http://alertux.com/blog/wp-content/uploads/2020/03/ET7V7K6XQAAqtjt-768x512.jpg 768w, http://alertux.com /blog/wp-content/uploads/2020/03/ET7V7K6XQAAqtjt-600x400.jpg 600w, http://alertux.com/blog/wp-content/uploads/2020/03/ET7V7K6XQAAqtjt.jpg 1280w "
+                         sizes=" (max -width: 1024px) 100vw, 1024px "/>
+                </figure>
+
+
+                <p>As reported by the authorities, the 4 confirmed coronavirus cases are imported, this means that:
+                    people entered the country directly into quarantine.
+                </p>
+
+
+                <p>They also confirmed that they are all stable and smooth.</p>
+
+
+                <p>The places where they traveled are: 2 from the United States, 1 from Canada and 1 more from
+                    Guatemala.
+                </p>
+
+
+                <p>We call on the population to abide by the measures dictated by the authorities.</p>
+
+
+                <p></p>
+
+                <div
+                        class="fb-comments"
+                        data-href="http://alertux.com/blog/?p=785"
+                        data-numposts="10"
+                        data-colorscheme="light"
+                        data-order-by="social"
+                        data-mobile= true>
+                </div>
+                <style>
+                    .fb_iframe_widget_fluid_desktop iframe {
+                    width: 100%! important;
+                    }
+                </style>
+                <div style="display: none;"
+                     class="kk-star-ratings kksr-valign-bottom kksr-align-right"
+                     data-id="785"
+                     data-slug="">
+                    <div class="kksr-stars">
+                        <div class="kksr-stars-inactive">
+                            <div class="kksr-star" data-star="1">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="2">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="3">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="4">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="5">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                        <div class="kksr-stars-active" style="width: 112px;">
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="kksr-legend">
+                        <strong class="kksr-score">4</strong>
+                        <span class="kksr-muted">/</span>
+                        <strong>5</strong>
+                        <span class="kksr-muted">(</span>
+                        <strong class="kksr-count">2</strong>
+                        <span class="kksr-muted">
+                            votes
+                        </span>
+                        <span class="kksr-muted">)</span>
+                    </div>
+                </div>
+                ]]>
+            </ content: encoded>
+            <wfw: commentRss>http://alertux.com/blog/?feed=rss2&p=785</ wfw: commentRss>
+            <slash: comments>0</ slash: comments>
+        </item>
+        <item>
+            <title>A 7.5 earthquake was recorded this day off the Kuril Islands</title>
+            <link>http://alertux.com/blog/?p=782</link>
+            <comments>http://alertux.com/blog/?p=782#respond</comments>
+            <pubDate>Wed, 25 Mar 2020 03:52:22 +0000</pubDate>
+            <dc: creator><! [CDATA [admin]]>
+            </ dc: creator>
+            <category>
+            <!
+
+            <guid isPermaLink="false">http://alertux.com/blog/?p=782</guid>
+            <description><! [CDATA [An earthquake of magnitude 7.5 was registered this Wednesday off the shores of the
+                Kuril Islands, about 219 kilometers southeast of the city of Sévero-Kurilsk (Russia), & # 8230; ]]>
+            </description>
+            <content: encoded><! [CDATA [
+                <p></p>
+
+
+                <p>An earthquake of magnitude 7.5 has been registered this Wednesday off the shores of the Kuril
+                    Islands, about 219 kilometers southeast of the city of Sévero-Kurilsk (Russia), as reported by the
+                    US Geological Survey. . (USGS, for its acronym in English).
+                </p>
+
+
+                <p>The focus of the telluric movement has been located at a depth of 56.7 kilometers.</p>
+
+
+                <p>No victims or material damage are reported at the moment. Nor has a tsunami warning been issued for
+                    El Salvador.
+                </p>
+
+                <div
+                        class="fb-comments"
+                        data-href="http://alertux.com/blog/?p=782"
+                        data-numposts="10"
+                        data-colorscheme="light"
+                        data-order-by="social"
+                        data-mobile= true>
+                </div>
+                <style>
+                    .fb_iframe_widget_fluid_desktop iframe {
+                    width: 100%! important;
+                    }
+                </style>
+                <div style="display: none;"
+                     class="kk-star-ratings kksr-valign-bottom kksr-align-right"
+                     data-id="782"
+                     data-slug="">
+                    <div class="kksr-stars">
+                        <div class="kksr-stars-inactive">
+                            <div class="kksr-star" data-star="1">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="2">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="3">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="4">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="5">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                        <div class="kksr-stars-active" style="width: 0px;">
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="kksr-legend">
+                        <span class="kksr-muted">Rate this report</span>
+                    </div>
+                </div>
+                ]]>
+            </ content: encoded>
+            <wfw: commentRss>http://alertux.com/blog/?feed=rss2&p=782</ wfw: commentRss>
+            <slash: comments>0</ slash: comments>
+        </item>
+        <item>
+            <title>The message of Goku, Vegeta and Frieza in the face of the covid-19 pandemic. Stay home!</title>
+            <link>http://alertux.com/blog/?p=776</link>
+            <comments>http://alertux.com/blog/?p=776#respond</comments>
+            <pubDate>Tue, 24 Mar 2020 16:53:03 +0000</pubDate>
+            <dc: creator><! [CDATA [admin]]>
+            </ dc: creator>
+            <category><! [CDATA [El Salvador]]>
+            </category>
+            <category><!://CDATA//#alertCovid19SV................>>
+            </category>
+            <category>
+            <!
+            <category><! [CDATA [el salvador]]>
+            </category>
+
+            <guid isPermaLink="false">http://alertux.com/blog/?p=776</guid>
+            <description><! [CDATA [In the face of the pandemic that affects the world due to covid-19, it has united
+                the world in a single request: Stay at home! And that has not left out the world of & # 8230; ]]>
+            </description>
+            <content: encoded><! [CDATA [
+                <figure class="wp-block-image size-large">
+                    <img src="http://alertux.com/blog/wp-content/uploads/2020/03/Alertus-Dragon-Ball-1024x842.png"
+                         alt="" class="wp-image-778"
+                         srcset="http://alertux.com/blog/wp-content/uploads/2020/03/Alertus-Dragon-Ball-1024x842.png 1024w, http: / /alertux.com/blog/wp-content/uploads/2020/03/Alertus-Dragon-Ball-300x247.png 300w, http://alertux.com/blog/wp-content/uploads/2020/03/Alertus- Dragon-Ball-768x632.png 768w, http://alertux.com/blog/wp-content/uploads/2020/03/Alertus-Dragon-Ball-1536x1264.png 1536w, http://alertux.com/blog/ wp-content / uploads / 2020/03 / Alertus-Dragon-Ball-2048x1685.png 2048w, http://alertux.com/blog/wp-content/uploads/2020/03/Alertus-Dragon-Ball-600x494.png 600w "
+                         sizes=" (max-width: 1024px) 100vw, 1024px "/>
+                </figure>
+
+
+                <p>In the face of the pandemic that affects the world due to covid-19, it has united the world in a
+                    single request: Stay at home!
+                </p>
+
+
+                <p>And that has not left out the world of animated series, so a video has recently gone viral in which
+                    he appreciates Goku, Vegeta and Frieza, sending a message to the world.
+                </p>
+
+
+                <figure class="wp-block-embed-facebook wp-block-embed is-type-video is-provider-facebook">
+                    <div class="wp-block-embed__wrapper">
+                        <div id="fb-root"></div>
+                        <script async="1" defer="1" crossorigin="anonymous"
+                                src="https://connect.facebook.net/en_US/sdk.js# xfbml = 1 & amp; version = v6.0 "></script>
+                        <div class=" fb-video "
+                             data-href=" https://www.facebook.com/Claqueta2/videos/558393104791359/?t=84 "
+                             data-width="1110">
+                            <blockquote cite="https://www.facebook.com/Claqueta2/videos/558393104791359/"
+                                        class="fb-xfbml-parse-ignore">
+                                <a href="https: / /www.facebook.com/Claqueta2/videos/558393104791359/">GOKU, VEGETA AND
+                                    FREEZER MESSAGE FOR THE WORLD
+                                </a>
+                                <p>Message from Goku, Vegeta and Frieza to fight the Coronavirus (# Covid19) Claqueta2
+                                    joins to this great initiative # QuédateEnCasa # YoMeQuedoEnCasa & # 064; ccp_mario&
+                                    # 064;renegarcia900 & # 064; GerardoReyero # Coronavirus # Covid19 #Vegeta #Goku
+                                    #Freezer
+                                </p>
+                                Posted by <a href="https://www.facebook.com/Claqueta2/">Claqueta2</a> on Saturday,
+                                March 21 , 2020
+                            </blockquote>
+                        </div>
+                    </div>
+                </figure>
+
+                <div
+                        class="fb-comments"
+                        data-href="http://alertux.com/blog/?p=776"
+                        data-numposts="10"
+                        data-colorscheme="light"
+                        data-order-by="social"
+                        data-mobile= true>
+                </div>
+                <style>
+                    .fb_iframe_widget_fluid_desktop iframe {
+                    width: 100%! important;
+                    }
+                </style>
+                <div style="display: none;"
+                     class="kk-star-ratings kksr-valign-bottom kksr-align-right"
+                     data-id="776"
+                     data-slug="">
+                    <div class="kksr-stars">
+                        <div class="kksr-stars-inactive">
+                            <div class="kksr-star" data-star="1">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="2">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="3">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="4">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="5">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                        <div class="kksr-stars-active" style="width: 0px;">
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="kksr-legend">
+                        <span class="kksr-muted">Rate this report</span>
+                    </div>
+                </div>
+                ]]>
+            </ content: encoded>
+            <wfw: commentRss>http://alertux.com/blog/?feed=rss2&p=776</ wfw: commentRss>
+            <slash: comments>0</ slash: comments>
+        </item>
+        <item>
+            <title>El Salvador adds 5 confirmed coronavirus cases.</title>
+            <link>http://alertux.com/blog/?p=769</link>
+            <comments>http://alertux.com/blog/?p=769#respond</comments>
+            <pubDate>Tue, 24 Mar 2020 02:09:56 +0000</pubDate>
+            <dc: creator><! [CDATA [admin]]>
+            </ dc: creator>
+            <category><!-5CDATA//AlertaCovid19SV................................>
+            </category>
+            <category><!://CDATA//#alertCovid19SV................>>
+            </category>
+
+            <guid isPermaLink="false">http://alertux.com/blog/?p=769</guid>
+            <description><! [CDATA [The authorities of the Expanded Health Cabinet and the representative confirmed two
+                more cases of coronavirus in El Salvador. According to authorities, the two new cases were people who &#
+                8230; ]]>
+            </description>
+            <content: encoded><! [CDATA [
+                <figure class="wp-block-image size-large">
+                    <img src="http://alertux.com/blog/wp-content/uploads/2020/03/ET1u2sTXYAECYDx-1024x512.jpg" alt=""
+                         class="wp-image-770"
+                         srcset="http://alertux.com/blog/wp-content/uploads/2020/03/ET1u2sTXYAECYDx-1024x512.jpg 1024w, http://alertux.com/blog/wp -content / uploads / 2020/03 / ET1u2sTXYAECYDx-300x150.jpg 300w, http://alertux.com/blog/wp-content/uploads/2020/03/ET1u2sTXYAECYDx-768x384.jpg 768w, http://alertux.com /blog/wp-content/uploads/2020/03/ET1u2sTXYAECYDx-600x300.jpg 600w, http://alertux.com/blog/wp-content/uploads/2020/03/ET1u2sTXYAECYDx.jpg 1280w "
+                         sizes=" (max -width: 1024px) 100vw, 1024px "/>
+                </figure>
+
+
+                <p>The authorities of the Expanded Health Cabinet and the representative confirmed two more cases of
+                    coronavirus in El Salvador.
+                </p>
+
+
+                <p>According to the authorities, the two new cases were people who returned to the country from Italy,
+                    stopping off in Mexico, as reported, both people arrived in the country in direct quarantine, so
+                    they did not represent a greater risk of contact .
+                </p>
+
+
+                <p>With these two new cases El Salvador increases the cases of people with coronavirus to 5.</p>
+
+
+                <p></p>
+
+                <div
+                        class="fb-comments"
+                        data-href="http://alertux.com/blog/?p=769"
+                        data-numposts="10"
+                        data-colorscheme="light"
+                        data-order-by="social"
+                        data-mobile= true>
+                </div>
+                <style>
+                    .fb_iframe_widget_fluid_desktop iframe {
+                    width: 100%! important;
+                    }
+                </style>
+                <div style="display: none;"
+                     class="kk-star-ratings kksr-valign-bottom kksr-align-right"
+                     data-id="769"
+                     data-slug="">
+                    <div class="kksr-stars">
+                        <div class="kksr-stars-inactive">
+                            <div class="kksr-star" data-star="1">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="2">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="3">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="4">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="5">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                        <div class="kksr-stars-active" style="width: 88.8px;">
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="kksr-legend">
+                        <strong class="kksr-score">3.2</strong>
+                        <span class="kksr-muted">/</span>
+                        <strong>5</strong>
+                        <span class="kksr-muted">(</span>
+                        <strong class="kksr-count">8</strong>
+                        <span class="kksr-muted">
+                            votes
+                        </span>
+                        <span class="kksr-muted">)</span>
+                    </div>
+                </div>
+                ]]>
+            </ content: encoded>
+            <wfw: commentRss>http://alertux.com/blog/?feed=rss2&p=769</ wfw: commentRss>
+            <slash: comments>0</ slash: comments>
+        </item>
+        <item>
+            <title>Incredible: They capture deer walking calmly in Santa Tecla.</title>
+            <link>http://alertux.com/blog/?p=766</link>
+            <comments>http://alertux.com/blog/?p=766#respond</comments>
+            <pubDate>Tue, 24 Mar 2020 01:42:54 +0000</pubDate>
+            <dc: creator><! [CDATA [admin]]>
+            </ dc: creator>
+            <category><! [CDATA [El Salvador]]>
+            </category>
+            <category><!://CDATA//#alertCovid19SV................>>
+            </category>
+            <category><!://CDATA//Viral................................>
+            </category>
+
+            <guid isPermaLink="false">http://alertux.com/blog/?p=766</guid>
+            <description><! [CDATA [This day, a video circulated on social networks, in which deer are seen walking
+                calmly in the Palmira de Santa Tecla neighborhood. The curious video, turned & # 8230; ]]>
+            </description>
+            <content: encoded><! [CDATA [
+                <p>This day, a video circulated on social networks, in which deer are seen walking calmly in the Palmira
+                    de Santa Tecla neighborhood.
+                </p>
+
+
+                <figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+                <div class="wp-block-embed__wrapper">
+                    <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+                        <p lang="en" dir="ltr">Sent to WhatsApp:
+                            <br>
+                            <br>
+                            Capture deer stroll quietly in the area of ​​Col. Palmira in Santa Tecla.
+                            <a
+                                    href="https://twitter.com/hashtag/AlertaCOVID19SV?src=hash&ref_src=twsrc%5Etfw">#
+                                AlertCOVID19SV
+                            </a>
+                            <a href="https://twitter.com/hashtag/ElSalvador?src=hash&ref_src=twsrc%5Etfw">#ElSalvador
+                            </a>
+                            <a href="https://t.co/sT5sf0fewK">pic. twitter.com/sT5sf0fewK</a>
+                        </p>
+                        & mdash; Stay home ombe! (@DonMartuit)
+                        <a
+                                href="https://twitter.com/DonMartuit/status/1242264154347577345?ref_src=twsrc%5Etfw">
+                            March
+                            24, 2020
+                        </a>
+                    </blockquote>
+                    <script async src="https:
+</div> </figure>
+
+
+
+<p> The curious video went viral on social networks. </p>
+
+			  <div
+			  	class = " fb-comments"
+			  	data-href = "http://alertux.com/blog/?p=766"
+                    data-numposts = "10"
+                    data-colorscheme = "light"
+                    data-order-by = "social"
+                    data-mobile = true>
+                </div>
+                <style>
+                    .fb_iframe_widget_fluid_desktop iframe {
+                    width: 100%! important;
+                    }
+                </style>
+                <div style="display: none;"
+                     class="kk-star-ratings kksr-valign-bottom kksr-align-right"
+                     data-id="766"
+                     data-slug="">
+                    <div class="kksr-stars">
+                        <div class="kksr-stars-inactive">
+                            <div class="kksr-star" data-star="1">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="2">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="3">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="4">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="5">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                        <div class="kksr-stars-active" style="width: 91.2px;">
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="kksr-legend">
+                        <strong class="kksr-score">3.3</strong>
+                        <span class="kksr-muted">/</span>
+                        <strong>5</strong>
+                        <span class="kksr-muted">(</span>
+                        <strong class="kksr-count">3</strong>
+                        <span class="kksr-muted">
+                            votes
+                        </span>
+                        <span class="kksr-muted">)</span>
+                    </div>
+                </div>
+                ]]>
+            </ content: encoded>
+            <wfw: commentRss>http://alertux.com/blog/?feed=rss2&p=766</ wfw: commentRss>
+            <slash: comments>0</ slash: comments>
+        </item>
+        <item>
+            <title>An earthquake of 5.5 was recorded this afternoon in Croatia</title>
+            <link>http://alertux.com/blog/?p=763</link>
+            <comments>http://alertux.com/blog/?p=763#respond</comments>
+            <pubDate>Tue, 24 Mar 2020 00:35:50 +0000</pubDate>
+            <dc: creator><! [CDATA [admin]]>
+            </ dc: creator>
+            <category><!
+                <category><!://CDATA-5Croatia>]
+                </category>
+                <category><!://CDATA................ earthquake> ...
+                </category>
+
+                <guid isPermaLink="false">http://alertux.com/blog/?p=763</guid>
+                <description><! [CDATA [In quarantine, Croatia is affected by two earthquakes of 5.0 and 5.5 and more
+                    than 60 aftershocks International: Croatia has been affected by at least two earthquakes of 5.5 & #
+                    8230; ]]>
+                </description>
+                <content: encoded><! [CDATA [
+                    <blockquote class="wp-block-quote">
+                        <p>
+                            <em>
+                                <strong>In quarantine, Croatia is affected by two earthquakes of 5.0 and 5.5 and more
+                                    than 60 aftershocks
+                                </strong>
+                            </em>
+                        </ p>
+                        <cite>
+                            <br>
+                        </cite>
+                    </blockquote>
+
+
+                    <p>International: Croatia has been affected by at least two earthquakes of 5.5 and 5.0, leaving
+                        various material damages. The earthquakes occur, at the moment whose population is in
+                        quarantine, due to 110 confirmed coronavirus cases in the country.
+                    </p>
+
+
+                    <figure class="wp-block-image size-large">
+                        <img src="http://alertux.com/blog/wp-content/uploads/2020/03/Alertus-croacia.jpg" alt=""
+                             class="wp-image-764"
+                             srcset="http://alertux.com/blog/wp-content/uploads/2020/03/Alertus-croacia.jpg 794w, http://alertux.com/blog/wp -content / uploads / 2020/03 / Alertus-croacia-300x199.jpg 300w, http://alertux.com/blog/wp-content/uploads/2020/03/Alertus-croacia-768x510.jpg 768w, http: / /alertux.com/blog/wp-content/uploads/2020/03/Alertus-croacia-600x398.jpg 600w "
+                             sizes=" (max-width: 794px) 100vw, 794px "/>
+                    </figure>
+
+
+                    <p>In images published on Twitter, there are several photographs in which the damage caused by the
+                        earthquake is appreciated.
+                    </p>
+
+
+                    <figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+                        <div class="wp-block-embed__wrapper">
+                            / a>
+                        </p>
+                        & mdash; jorgesomontes6901@gmail.com
+                        <img src="https: //sworg/images/core/emoji/12.0.0-1/72x72/1f576.png" alt="🕶" class="wp-smiley"
+                             style="height : 1em; max-height: 1em; "/>
+                        (@ jorgesomontes61)
+                        <a
+                                href="https://twitter.com/jorgesomontes61/status/1242200853865541640?ref_src=twsrc%5Etfw">
+                            March 23, 2020
+                        </a>
+                    </blockquote>
+                    <script async src=" https://platform.twitter.com/widgets.js " charset=" utf-8 "></script>
+                </div>
+            </figure>
+
+
+            <figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+                <div class="wp-block-embed__wrapper">
+                    <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+                    <p lang="en" dir="ltr">I have hardly seen tweets about the earthquake in Croatia<img
+                            src="https: //sworg/images/core/emoji/12.0.0-1/72x72/1f1ed-1f1f7.png" alt="🇭🇷"
+                            class="wp-smiley" style="height: 1em; max- height: 1em; "/>.
+                        <br>
+                        <br>
+                        Just think about how you would deal with this and a pandemic that demands that you not get close
+                        to others. They do not have a home and are at serious health risk when they seek help.
+                        <br>
+                        <br>
+                        And there are still those who dare to go out because they "have an egg."
+                        <a
+                                href="https://t.co/Jg7KuUtkVd">pic.twitter.com/Jg7KuUtkVd
+                        </a>
+                    </p>
+                    & mdash; Carlos Raúl Kestler (@carlosrkestler)<a href="https: // twitter.
+</div> </figure>
+
+			  <div
+			  	class = " fb-comments"
+			  	data-href = "http://alertux.com/blog/?p=763"
+                    data-numposts = "10"
+                    data-colorscheme = "light"
+                    data-order-by = "social"
+                    data-mobile = true>
+                </div>
+                <style>
+                    .fb_iframe_widget_fluid_desktop iframe {
+                    width: 100%! important;
+                    }
+                </style>
+                <div style="display: none;"
+                     class="kk-star-ratings kksr-valign-bottom kksr-align-right"
+                     data-id="763"
+                     data-slug="">
+                    <div class="kksr-stars">
+                        <div class="kksr-stars-inactive">
+                            <div class="kksr-star" data-star="1">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="2">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="3">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="4">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star" data-star="5">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                        <div class="kksr-stars-active" style="width: 0px;">
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                            <div class="kksr-star">
+                                <div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="kksr-legend">
+                        <span class="kksr-muted">Rate this report</span>
+                    </div>
+                </div>
+                ]]>
+            </ content: encoded>
+            <wfw: commentRss>http://alertux.com/blog/?feed=rss2&p=763</ wfw: commentRss>
+            <slash: comments>0</ slash: comments>
+        </item>
+    </channel>
+</rss>
